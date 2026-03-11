@@ -31,7 +31,7 @@ Craft-Connect is an **AI-powered marketplace platform** that helps local artisan
 ## Technology Stack
 - **Frontend:** Next.js + TypeScript + Tailwind CSS
 - **Backend & Auth:** Firebase (Authentication, Firestore)
-- **AI Integration:** Gemini 2.0 Flash API for content generation and insights
+- **AI Integration:** Gemini API for content generation and insights
 
 ---
 
@@ -101,7 +101,3 @@ Craft-Connect is an **AI-powered marketplace platform** that helps local artisan
 Craft-Connect enables artisans to reduce listing time by ~80%, expand digital reach, and sell authentic handmade crafts to a wider audience while using AI to simplify complex tasks.
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
